@@ -13,6 +13,9 @@ public class C01mda {
 
         System.out.println(Arrays.deepToString(sayilar));
 
+        int[][]arr1=new int[3][4];
+        System.out.println(Arrays.deepToString(arr1));
+
     }
 
 }
